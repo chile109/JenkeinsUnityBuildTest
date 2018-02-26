@@ -3,7 +3,9 @@ using UnityEngine;
 using System;
 using System.IO;
 using System.Collections.Generic;
-
+/// <summary>
+/// Build tool.
+/// </summary>
 public class BuildTool
 {
     [MenuItem("BuildTool/Build")]
