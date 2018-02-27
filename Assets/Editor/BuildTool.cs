@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 /// <summary>
-/// Build tool3.
+/// Build tool4.
 /// </summary>
 public class BuildTool
 {
